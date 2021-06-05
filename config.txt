@@ -1,0 +1,4 @@
+userName = youramazonaccount@gmail.com
+password = youramazonaccountPWD
+driverPath = /Users/numancizmeli/Documents/nmnczmlPortfolio/AmazonRTXBot/chromedriver
+userDataDir = --user-data-dir=/tmp/numi
